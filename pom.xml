@@ -4,7 +4,7 @@
 	<groupId>com.flipkart</groupId>
 	<artifactId>DevOps_project</artifactId>
 	<packaging>war</packaging>
-	<version>3.0</version>
+	<version>4.0</version>
 	<name>DevOps_project</name>
 
 	<properties>
